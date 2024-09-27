@@ -14,7 +14,9 @@
     """
 
     1,2,3,4,4,4,4,5
+    
     F,F,F,T,T,T,T,T
+
     l---------------R
 
     if We want first T value (first value >= target) as our ans, so retain T,
@@ -30,7 +32,9 @@
     """
 
     1,2,3,4,4,4,4,5
+
     F,F,F,F,F,F,F,T
+
     l---------------R
 
     if We want first T value as our ans, so retain T,
